@@ -20,3 +20,7 @@ curl http://127.0.0.1:8001/apis/stable.example/v1/namespaces/*/crontabs
 ```json
 {"apiVersion":"stable.example.com/v1","items":[],"kind":"CronTabList","metadata":{"continue":"","resourceVersion":"69668","selfLink":"/apis/stable.example.com/v1/namespaces/*/crontabs"}}
 ```
+
+- - - - - 
+
+This is based on the K8s official documentation.

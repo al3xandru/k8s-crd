@@ -1,3 +1,4 @@
+# example from K8s docs
 apiVersion: stable.example.com/v1
 kind: CronTab
 metadata:
